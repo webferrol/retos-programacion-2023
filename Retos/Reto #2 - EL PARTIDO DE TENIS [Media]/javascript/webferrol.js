@@ -69,7 +69,7 @@ sequence.forEach(p => {
 
 playerGamers = [0, 0];
 console.log(`@@@@@@@@@@@@@@@@@@@@@@@@@`);
-console.log(``);
+console.log('');
 console.log(`@@@@@@@@@@@@@@@@@@@@@@@@@`);
 sequence2.forEach(p => {
     let p1 = playerGamers[0],
